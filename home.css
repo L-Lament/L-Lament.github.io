@@ -11,7 +11,7 @@ body {
 /* HERO AND HEADER SECTION */
 
 .hero {
-  background-image: url(/blogwebsite/images/library.jpg);
+  background-image: url(images/library.jpg);
   padding-inline: 20px;
   padding-top: 20px;
   display: flex;
